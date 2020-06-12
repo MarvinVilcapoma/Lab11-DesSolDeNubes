@@ -7,7 +7,6 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-
     <title>CONTACTOS CRUD</title>
   </head>
   <body>
@@ -17,6 +16,7 @@
         <a class="navbar-brand" href="{{route('inicio')}}">
                 <img src="https://images.vexels.com/media/users/3/136558/isolated/preview/43cc80b4c098e43a988c535eaba42c53-icono-de-usuario-de-la-persona-by-vexels.png" width="30" height="30" alt="" loading="lazy">
             </a>
+            <a class="navbar-brand">CRUD DE CONTACTOS - VILCAPOMA FLORES</a>
         </div>
     </nav>
 

@@ -5,8 +5,7 @@
     <div class="row">
         <div class="col-md-7">
             <table class="table">
-                <tr>
-                    
+                <tr>       
                     <th>ID</th>
                     <th>Nombre</th>
                     <th>Apellido</th>
